@@ -17,7 +17,7 @@
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-ElasticSearch-5EA2A2?style=flat-square&logo=ElasticSearch&logoColor=EE6911)](https://elasticsearch.cn/)
-[![](https://img.shields.io/badge/-redis-BCCCBC?style=flat-square&logo=redis&logoColor=F37150)](https://redis.io/)
+[![](https://img.shields.io/badge/-Redis-BCCCBC?style=flat-square&logo=redis&logoColor=F37150)](https://redis.io/)
 [![](https://img.shields.io/badge/-Mysql-0074a3?style=flat-square&logo=mysql&logoColor=white)](https://mysql.com/)
 
 [![](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net/)
