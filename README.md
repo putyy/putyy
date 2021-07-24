@@ -13,7 +13,7 @@
 
 
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
-[![](https://img.shields.io/badge/-swarm-326CE5?style=flat-square&logo=docker&logoColor=ffffff)](https://docs.docker.com/engine/swarm/)
+[![](https://img.shields.io/badge/-Swarm-326CE5?style=flat-square&logo=docker&logoColor=ffffff)](https://docs.docker.com/engine/swarm/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-ElasticSearch-5EA2A2?style=flat-square&logo=ElasticSearch&logoColor=EE6911)](https://elasticsearch.cn/)
