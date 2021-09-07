@@ -1,6 +1,6 @@
 ![](https://github.com/putyy/putyy/blob/main/hello.png)
 ### About me
-- 👼 My: LW放下
+- 👼 My: putyy
 - 🏩 Love:  代码 & 饮酒 &  游泳 & 机车 & 篮球 & 乒乓球 & 电影 & 音乐 & 运动 & 美食 ~~
 - 💻 Code age: 5+
 - 📫 How to reach me: [home page](http://www.putyy.com).
