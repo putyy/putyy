@@ -1,7 +1,7 @@
 ![](https://github.com/putyy/putyy/blob/main/hello.png)
 ### About me
-- 👼 My: putyy
-- 🏩 Love:  代码 & 饮酒 &  游泳 & 机车 & 篮球 & 乒乓球 & 电影 & 音乐 & 运动 & 美食 ~~
+- 👼 Me: putyy
+- 🏩 Love:  coding & 游泳 & 机车 & 小饮 & 运动 & 电影 & 音乐 & 美食 ~~
 - 💻 Code age: 5+
 - 📫 How to reach me: [home page](http://www.putyy.com).
 
@@ -26,3 +26,9 @@
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/-Shell-A09BA8?style=flat-square)](https://www.runoob.com/linux/linux-shell.html)
 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=putyy&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=putyy&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=putyy&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=putyy&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=putyy&theme=github)
