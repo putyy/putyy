@@ -1,8 +1,7 @@
 ![](https://github.com/putyy/putyy/blob/main/hello.png)
 ### About me
 - 👼 Me: putyy
-- 🏩 Love:  coding & 游泳 & 机车 & 小饮 & 运动 & 电影 & 音乐 & 美食 ~~
-- 💻 Code age: 5+
+- 🏩 Love:  coding & 游泳 & 机车 & 小饮 & 运动 & 影音 & 美食 ~~
 - 📫 How to reach me: [home page](http://www.putyy.com).
 
 ### Skill tag
@@ -28,7 +27,3 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=putyy&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=putyy&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=putyy&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=putyy&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=putyy&theme=github)
