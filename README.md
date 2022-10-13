@@ -1,7 +1,6 @@
 ![](https://github.com/putyy/putyy/blob/main/hello.png)
 ### About me
 - 👼 Me: putyy
-- 🏩 Love:  coding & 游泳 & 机车 & 小饮 & 运动 & 影音 & 美食 ~~
 - 📫 How to reach me: [home page](http://www.putyy.com).
 
 ### Skill tag
